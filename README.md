@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/0hu7x1i2nhvc64fl?svg=true)](https://ci.appveyor.com/project/Anna7682/ra-redux-thunx-api)
+
 Список и детали
 ===
 
